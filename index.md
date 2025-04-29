@@ -1,3 +1,12 @@
+---
+title: Freedom Tower Project
+layout: default
+---
+
+# Welcome to the Freedom Tower
+
+Your decentralized future starts here.
+
 # 🏴‍☠️ Welcome to Freedom Tower
 
 **Technology was meant to set you free — not lock you down.**
